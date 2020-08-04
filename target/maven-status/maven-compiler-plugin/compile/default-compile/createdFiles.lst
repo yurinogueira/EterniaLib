@@ -1,0 +1,6 @@
+br\com\eterniaserver\eternialib\sql\SQLCallback.class
+br\com\eterniaserver\eternialib\sql\SQLTask.class
+br\com\eterniaserver\eternialib\EFiles.class
+br\com\eterniaserver\eternialib\EQueries.class
+br\com\eterniaserver\eternialib\EterniaLib.class
+br\com\eterniaserver\eternialib\sql\Connections.class

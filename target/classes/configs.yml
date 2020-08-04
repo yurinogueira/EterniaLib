@@ -1,0 +1,12 @@
+sql:
+  mysql: false
+  host: '127.0.0.1'
+  port: '3306'
+  database: 'admin'
+  user: 'admin'
+  password: 'admin'
+messages:
+  mysql-ok: '&7Conectado com sucesso a database &3MySQL&8.'
+  sql-ok: '&7Conectado com sucesso a database &3SQLite&8.'
+  sql-finish: '&7Conexão &3SQLite &7finalizada&8.'
+  mysql-finish: '&7Conexão &3MySQL &7finalizada&8.'

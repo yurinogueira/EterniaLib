@@ -1,0 +1,8 @@
+main: br.com.eterniaserver.eternialib.EterniaLib
+
+name: EterniaLib
+version: '1.6'
+author: Yuri Nogueira
+description: A lib to load and save in sql.
+api-version: '1.15'
+load: STARTUP
