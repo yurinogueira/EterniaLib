@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3aa16da-1c34-48b7-b871-48a7bf2cfa6f" name="Default Changelist" comment="getMapBytesString" />
+    <list default="true" id="c3aa16da-1c34-48b7-b871-48a7bf2cfa6f" name="Default Changelist" comment="getMapBytesString">
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/1.1.1/EterniaLib-1.1.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/maven-metadata-local.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/eterniaserver/EterniaLib/maven-metadata-local.xml.sha1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
