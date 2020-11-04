@@ -1,0 +1,63 @@
+#
+# Copyright (c) 2016-2017 Daniel Ennis (Aikar) - MIT License
+#
+#  Permission is hereby granted, free of charge, to any person obtaining
+#  a copy of this software and associated documentation files (the
+#  "Software"), to deal in the Software without restriction, including
+#  without limitation the rights to use, copy, modify, merge, publish,
+#  distribute, sublicense, and/or sell copies of the Software, and to
+#  permit persons to whom the Software is furnished to do so, subject to
+#  the following conditions:
+#
+#  The above copyright notice and this permission notice shall be
+#  included in all copies or substantial portions of the Software.
+#
+#  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+#  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+#  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+#  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+#  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+#  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+#  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#
+
+acf-core:
+  permission_denied: '§8[§aE§9S§8] §7Você não tem permissão para isso§8.'
+  permission_denied_parameter: '§8[§aE§9S§8] §7Você não tem permissão para isso§8.'
+  error_generic_logged: '§8[§aE§9S§8] §7Ocorreu um erro§8, §7lamentamos§8.'
+  unknown_command: '§8[§aE§9S§8] §7Comando desconhecido§8.'
+  invalid_syntax: '§8[§aE§9S§8] §7Use §6{command}§3{syntax}§8.'
+  error_prefix: '§8[§aE§9S§8] §7Erro§8: §7{message}§8.'
+  error_performing_command: '§8[§aE§9S§8] §7Ocorreu um erro§8, §7lamentamos§8.'
+  info_message: '§8[§aE§9S§8] §7{message}§8.'
+  please_specify_one_of: '§8[§aE§9S§8] §7Especifique um dos §3<{valid}>§8.'
+  must_be_a_number: '§8[§aE§9S§8] §7Precisa ser um número§8.'
+  must_be_min_length: '§8[§aE§9S§8] §7Precisa ter ao menos §3{min} caracteres§8.'
+  must_be_max_length: '§8[§aE§9S§8] §7Precisa ter no máximo §3{max} caracteres§8.'
+  please_specify_at_most: '§8[§aE§9S§8] §7Por favor especifique um valor até §3{max}§8.'
+  please_specify_at_least: '§8[§aE§9S§8] §7Por favor especifique um valor de pelo menos §3{min}§8.'
+  not_allowed_on_console: '§8[§aE§9S§8] §7O console não pode executar esse comando§8.'
+  could_not_find_player: '§8[§aE§9S§8] §7Não foi possível encontrar um jogador com o nome de §3{search}§8.'
+  no_command_matched_search: '§8[§aE§9S§8] §7Nenhum comando §6{search} §7foi encontrado§8.'
+  help_page_information: '§8[§aE§9S§8] §7Mostrando página §3{page}§7 de §3{totalpages}§8. {results} §7resultados§8.'
+  help_no_results: '§8[§aE§9S§8] §7Sem mais resultados§8.'
+  help_header: '§8[§aE§9S§8] §7Mostrando ajuda para §6{commandprefix}{command}§8.'
+  help_format: '§6/{command} §3{parameters} §8{separator}§7{description}§8.'
+  help_detailed_header: '§8[§aE§9S§8] §7Mostrando ajuda detalhada para §6{commandprefix}{command}§8.'
+  help_detailed_command_format: '§6/{command} §3{parameters} §8{separator}§7{description}§8.'
+  help_detailed_parameter_format: '§3{syntaxorname}§8:§7{description}§8.'
+  help_search_header: '§8[§aE§9S§8] §7Resultados de busca para §6{commandprefix}{command} {search}§8.'
+acf-minecraft:
+  invalid_world: '§8[§aE§9S§8] §7Esse mundo não existe§8.'
+  you_must_be_holding_item: '§8[§aE§9S§8] §7Você precisa está segurando um item§8.'
+  player_is_vanished_confirm: '§8[§aE§9S§8] §3{vanished} §7está escondido§8, §7não o revele§8. §7Para confirmar sua ação
+    coloque §3:confirm §7no fim do nome dele§8. §7Exemplo§8: §3{vanished}:confirm§8.'
+  username_too_short: '§8[§aE§9S§8] §7Nome muito curto§8.'
+  is_not_a_valid_name: '§8[§aE§9S§8] §3{name} §7não é um nome válido§8.'
+  multiple_players_match: '§8[§aE§9S§8] §7Multiplos nomes encontrados §3{search} <{all}>§8, §7seja mais especifico§8.'
+  no_player_found_server: '§8[§aE§9S§8] §7O jogador §3{search}§7 não está conectado ao server§8.'
+  no_player_found_offline: '§8[§aE§9S§8] §7O jogador §3{search}§7 não está conectado ao server§8.'
+  no_player_found: '§8[§aE§9S§8] §7O jogador §3{search}§7 não está conectado ao server§8.'
+  location_please_specify_world: '§8[§aE§9S§8] §7Especifique um mundo§8. §7Example§8: §3world:x,y,z§8.'
+  location_please_specify_xyz: '§8[§aE§9S§8] §7Especifique as coordenadas§8. §7Example§8: §3world:x,y,z§8.'
+  location_console_not_relative: '§8[§aE§9S§8] §7O console não pode utilizar esse comando§8.'

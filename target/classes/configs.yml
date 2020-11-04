@@ -1,0 +1,14 @@
+sql:
+  mysql: false
+  host: '127.0.0.1'
+  port: '3306'
+  database: 'admin'
+  user: 'admin'
+  password: 'admin'
+messages:
+  load: '&8[&aE&9L&8] &7Carregados &3%size%&7 arquivos de jogadores&8.'
+  mysql-ok: '&8[&aE&9L&8] &7Conectado com sucesso a database &3MySQL&8.'
+  sql-ok: '&8[&aE&9L&8] &7Conectado com sucesso a database &3SQLite&8.'
+  sql-finish: '&8[&aE&9L&8] &7Conexão &3SQLite &7finalizada&8.'
+  mysql-finish: '&8[&aE&9L&8] &7Conexão &3MySQL &7finalizada&8.'
+  error: '&8[&aE&9S&8] &7Houve um erro ao criar o arquivo &3SQLite&8,&7 verifique as permissões da &3VPS&8.'

@@ -1,0 +1,15 @@
+br\com\eterniaserver\eternialib\sql\queries\Delete.class
+br\com\eterniaserver\eternialib\sql\queries\Select.class
+br\com\eterniaserver\eternialib\sql\queries\Update.class
+br\com\eterniaserver\eternialib\CommandManager.class
+br\com\eterniaserver\eternialib\sql\objects\Columns.class
+br\com\eterniaserver\eternialib\sql\objects\Cells.class
+br\com\eterniaserver\eternialib\Connections.class
+br\com\eterniaserver\eternialib\SQL.class
+br\com\eterniaserver\eternialib\UUIDFetcher.class
+br\com\eterniaserver\eternialib\sql\objects\Values.class
+br\com\eterniaserver\eternialib\sql\queries\Insert.class
+br\com\eterniaserver\eternialib\interfaces\Query.class
+br\com\eterniaserver\eternialib\sql\queries\CreateTable.class
+br\com\eterniaserver\eternialib\EterniaLib.class
+br\com\eterniaserver\eternialib\AsyncPlayerPreLogin.class
